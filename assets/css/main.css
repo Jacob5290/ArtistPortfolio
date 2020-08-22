@@ -56,7 +56,7 @@ body {
 }
 
 mark {
-	background-color: transparent;
+	background-color: #8294a1;
 	color: inherit;
 }
 
@@ -950,8 +950,10 @@ input, select, textarea {
 			top: 0;
 			width: 100%;
 			height: 100%;
-			background: url("images/overlay.png");
+			/*background: url("images/overlay.png");*/
 		}
+
+
 
 		.image img {
 			display: block;
@@ -1431,7 +1433,7 @@ input, select, textarea {
 			opacity: 1.0;
 		}
 
-			.gallery article .image {
+			.gallery article .image1 {
 				margin: 0;
 				display: block;
 			}
@@ -2293,5 +2295,6 @@ input, select, textarea {
 			#contact .box {
 				padding: 1em 1em 2em 1em;
 			}
+
 
 		}
